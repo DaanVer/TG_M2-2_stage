@@ -304,3 +304,4 @@ python icg_player.py
 
 Developed by D.A. Verhulst as part of the M2-2 internship, Technical Medicine, University of Twente, 2026.
 Fluorescence Imaging Lab, Medisch Spectrum Twente.
+d.a.verhulst@student.utwente.nl
